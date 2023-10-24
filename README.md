@@ -1,6 +1,7 @@
 # Classic Snake Game
 
 A simple Snake Game built in Python using the Turtle graphics library.
+
 ![Game Screenshot](https://github.com/NoorMahammad-S/Classic_Snake_Game/blob/master/images/screenshot.JPG)
 
 ## Table of Contents
